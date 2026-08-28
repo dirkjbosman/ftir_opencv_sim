@@ -1,4 +1,4 @@
-# FTIR Plume Simulation & Optical Tracking Engine (POC / Demo Only)
+# FTIR Plume Simulation & Optical Tracking Engine POC
 
 A C++ and OpenCV-powered simulation engine that models advanced hyperspectral infrared spectroscopy (FTIR) gas cloud detection, multi-plume classification, and spatial tracking. 
 
