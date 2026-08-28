@@ -67,3 +67,24 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+
+# Simulation Run Output Folders
+run_*/
+
+# macOS System Files
+.DS_Store
+._*
+
+# IDE Specific Files (VS Code / Xcode)
+.vscode/
+.xcodeproj/
+.xcworkspace/
+xcuserdata/
+
+# JetBrains IDEs (CLion, etc.)
+.idea/
+
+# OS / Crash dumps
+*.core
+*.dSYM/
