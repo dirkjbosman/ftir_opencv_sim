@@ -65,8 +65,9 @@ Upon execution, the terminal will log the randomized scenario parameters, and a 
 
 ### Simulation Demo Preview
 
-Here is an example output of the simulation rendering randomized gas plumes with heatmaps and target bounding boxes over the industrial refinery background: https://github.com/dirkjbosman/ftir_opencv_sim/raw/main/ftir_simulation_output.mp4
+Here is an example output of the simulation rendering randomized gas plumes with heatmaps and target bounding boxes over the industrial refinery background: 
+
+> **[Click here to play/download the full animated MP4 simulation](./ftir_simulation_output.mp4)**
 
 [![Watch the Simulation Video](./gas_refinery_poc.png)](./ftir_simulation_output.mp4)
 
-> 🎥 **[Click here to play/download the full animated MP4 simulation](./ftir_simulation_output.mp4)**
